@@ -1,6 +1,6 @@
 # SPR-has-no-agent SPR ONLY
-SPR has no agenT
-AFTER MINE
+SPR has no agent
+
 This is a binomial probability question. I’ve never seen this this sort of probability question on an ACT, but it’s essentially the same as a binomial theorem expansion which they have done.
 
 The probability of having k successes in n trials with probability p is:
