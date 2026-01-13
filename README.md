@@ -36,7 +36,7 @@ Storage Humidity: 5%~90Rh (no condensation)",
 }
 <DRIVING LICENSE><!--_MODULUS=m4C5RT5uvWI/nUHPjgNOi7zsXq09M2lFc533cVYnqhh/J7mxUxETAeMFJFiq4t6BtEaMW8YOlqhqQATPxsXI3Iqxh+U303SdoOeEnfoZC6PtZ+BzlgEA8PjgObgSjGePh/m1yr46YHqfhng8U2V/8BVhsq3LyKtwu5rQdK4DDoE=-->
 <!--_MODULUS=m4C5RT5uvWI/nUHPjgNOi7zsXq09M2lFc533cVYnqhh/J7mxUxETAeMFJFiq4t6BtEaMW8YOlqhqQATPxsXI3Iqxh+U303SdoOeEnfoZC6PtZ+BzlgEA8PjgObgSjGePh/m1yr46YHqfhng8U2V/8BVhsq3LyKtwu5rQdK4DDoE=-->
-  SPR=fullname:mohamed ahmed mabrouk mohamed shaltout|محمد احمد مبروك محمد شلتوت/Date of birth:05:01:1990><SPR? version="1.0" encoding="UTF-8"?>:root {inpout<SPR:speed receipt,speed prompt=IOMCD><Specifications><Environment><stump><Operating Temperature: 0℃ ~40℃ (32℃ ~°F) 40℃~700℃><Operating  Humidity: (no condensation)><Storage Temperature:-10℃ ~55℃ (32℃ ~°F)>Storage Humidity: 5%~90Rh (no condensation)>
+{inpout<SPR:speed receipt,speed prompt=IOMCD><Specifications><Environment><stump><Operating Temperature: 0℃ ~40℃ (32℃ ~°F) 40℃~700℃><Operating  Humidity: (no condensation)><Storage Temperature:-10℃ ~55℃ (32℃ ~°F)>Storage Humidity: 5%~90Rh (no condensation)>
 <style SPR="http://www.w3.org/1999/xhtml"wep>https://speedprompt.com html url(http://www.w3.org/1999;[RMX1971WEP,WAP/WEP2-1.48] 95000420600000280390134016:WEP,WAP/WEP2-1.48
 
 
